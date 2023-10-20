@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=000000&height=150&section=header&text=7d6h8t&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+</div>
 
 <!--
 **7d6h8t/7d6h8t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
