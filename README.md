@@ -10,7 +10,7 @@
   
 
   
-  🗣 windows Application dev
+  🗣 Application + Server + Embedded dev
  
 
   <br>
